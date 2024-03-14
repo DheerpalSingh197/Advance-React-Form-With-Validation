@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Advance-React-Form-With-Validation/static/css/main.a20b9c9a.css",
+    "main.js": "/Advance-React-Form-With-Validation/static/js/main.64a668ca.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Advance-React-Form-With-Validation/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Advance-React-Form-With-Validation/index.html",
+    "main.a20b9c9a.css.map": "/Advance-React-Form-With-Validation/static/css/main.a20b9c9a.css.map",
+    "main.64a668ca.js.map": "/Advance-React-Form-With-Validation/static/js/main.64a668ca.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Advance-React-Form-With-Validation/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20b9c9a.css",
+    "static/js/main.64a668ca.js"
+  ]
+}
